@@ -40,3 +40,13 @@ git bash here 中输入 hexo s 就可以弹出你的博客
 <h1>高亮</h1>
 ```
 
+{% katex %}
+f(x) = ax^2 + bx + c
+{% endkatex %}
+
+{% katex %}
+\begin{matrix}
+   a & b \\
+   c & d
+\end{matrix}
+{% endkatex %}
